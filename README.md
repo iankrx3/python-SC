@@ -1,2 +1,2 @@
 # python-SC
-study python
+study python 
